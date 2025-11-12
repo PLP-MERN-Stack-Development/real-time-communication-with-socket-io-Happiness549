@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Chat from "./Chat";
+import Chat from "./components/Chat";
 
 function App() {
   const [username, setUsername] = useState("");
